@@ -1,0 +1,26 @@
+{
+  "name": "custom-directive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zylstraj/custom-directive.git"
+  },
+  "keywords": [
+    "directives"
+  ],
+  "author": "jz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zylstraj/custom-directive/issues"
+  },
+  "homepage": "https://github.com/zylstraj/custom-directive#readme",
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
